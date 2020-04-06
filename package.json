@@ -1,0 +1,12 @@
+{
+  "name": "hello-node",
+  "description": "Hello World NodeJs App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
